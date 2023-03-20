@@ -1,1 +1,7 @@
 /* Add application styles & imports to this file! */
+body {
+  user-select: none;
+}
+ion-drawer {
+  padding: 0 20px;
+}
